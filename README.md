@@ -3,7 +3,7 @@
 <ul class="roman">
  <li>💬 About me:
    <ul class="square">
-  <li>Over 4 years of experience in projects covering digital transformation, digital finance, distribution management system, wholesale banking system, and point of sale systems</li>
+  <li>Over 6 years of experience in projects covering digital transformation, digital finance, distribution management system, wholesale banking system, and point of sale systems</li>
  </ul>
  </li>
 <br>
@@ -18,7 +18,6 @@
  <br>
   <li>🌱 I’m currently learning:
  <ul class="square">
-  <li>Blockchain</li>
   <li>Data Engineering</li>
   <li>Data Science</li>
  </ul>
