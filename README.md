@@ -3,7 +3,7 @@
 <ul class="roman">
  <li>💬 About me:
    <ul class="square">
-  <li>Over 6 years of experience in projects covering digital transformation, digital finance, distribution management system, wholesale banking system, and point of sale systems</li>
+  <li>Over 6 years of experience in projects covering digital transformation, digital finance, distribution management systems, wholesale banking systems, and point of sale systems</li>
  </ul>
  </li>
 <br>
@@ -20,6 +20,7 @@
  <ul class="square">
   <li>Data Engineering</li>
   <li>Data Science</li>
+  <li>Swarm Programming</li>
  </ul>
  </li>
 </ul>
